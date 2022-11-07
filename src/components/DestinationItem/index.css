@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.each-destination-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 300px;
+}
+
+.image-size {
+  width: 200px;
+  height: 200px;
+}
+
+.destination-heading {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'Open Sans';
+}
